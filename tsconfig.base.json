@@ -21,6 +21,9 @@
       "@activepieces/ee-shared": ["packages/ee/shared/src/index.ts"],
       "@activepieces/ee/billing/ui": ["packages/ee/billing/ui/src/index.ts"],
       "@activepieces/engine": ["packages/engine/src/main.ts"],
+      "@activepieces/piece-1cc-ghl-v2": [
+        "packages/pieces/custom/1cc-ghl-v2/src/index.ts"
+      ],
       "@activepieces/piece-activecampaign": [
         "packages/pieces/community/activecampaign/src/index.ts"
       ],
@@ -217,6 +220,9 @@
       ],
       "@activepieces/piece-generatebanners": [
         "packages/pieces/community/generatebanners/src/index.ts"
+      ],
+      "@activepieces/piece-ghl-v2-callclosers": [
+        "packages/pieces/custom/ghl-v2-callclosers/src/index.ts"
       ],
       "@activepieces/piece-ghostcms": [
         "packages/pieces/community/ghostcms/src/index.ts"
